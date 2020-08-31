@@ -1,4 +1,12 @@
-#  IOS Prep Course ReadMe
+#  IOS Prep Course Day 1
 
-### Please see individual branches for each day.
+## Orientation
+
+## Intro to Xcode
+
+## My First Playground
+
+## Lesson: Wizarding World About Me
+
+## Afternoon Project: Star Wars Profile
 
