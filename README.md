@@ -1,12 +1,12 @@
 #  IOS Prep Course Day 1
 
-## Orientation
+### Orientation (~45 minutes)
 
-## Intro to Xcode
+### Intro to Xcode (~45 minutes)
 
-## My First Playground
+### My First Playground (~30 minutes)
 
-## Lesson: Wizarding World About Me
+### Lesson: Wizarding World About Me (~1.5 hours)
 
-## Afternoon Project: Star Wars Profile
+### Afternoon Project: Wizarding World Profile (~30 minutes)
 
