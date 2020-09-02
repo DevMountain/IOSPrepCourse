@@ -1,5 +1,5 @@
-#  IOS Prep Course Day 2
+#  IOS Prep Course Day 3
 
 ### Lesson (~2 hours)
 
-### Afternoon Project: Diagon Alley Shopping Trip (~1 hour)
+### Afternoon Project: Quidditch Match (~1 hour)
