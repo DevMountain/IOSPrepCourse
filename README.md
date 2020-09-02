@@ -1,12 +1,5 @@
-#  IOS Prep Course Day 1
+#  IOS Prep Course Day 2
 
-## Orientation
+### Lesson (~2 hours)
 
-## Intro to Xcode
-
-## My First Playground
-
-## Lesson: Wizarding World About Me
-
-## Afternoon Project: Star Wars Profile
-
+### Afternoon Project: Diagon Alley Shopping Trip (~1 hour)
