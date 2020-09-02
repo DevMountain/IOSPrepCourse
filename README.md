@@ -1,5 +1,5 @@
-#  IOS Prep Course Day 4
+#  IOS Prep Course Day 5
 
-### Lesson (~2 hours)
+### Lesson (~2.5 hours)
 
 ### Afternoon Project: Undetermined
